@@ -15,7 +15,7 @@ import urllib.request
 urllib.request.urlretrieve("https://talgovsvcp.talgov.net/TallahasseeAtmsWeb/cctvimages/video046.jpg",'image1.jpg')
 urllib.request.urlretrieve("https://talgovsvcp.talgov.net/TallahasseeAtmsWeb/cctvimages/video098.jpg","image2.jpg")
 urllib.request.urlretrieve("https://talgovsvcp.talgov.net/TallahasseeAtmsWeb/cctvimages/video037.jpg","image3.jpg")
-urllib.request.urlretrieve("http://www.evsjupiter.com/pics/s2/apr1321n/a251442t.jpg","image4.jpg")
+urllib.request.urlretrieve("https://talgovsvcp.talgov.net/TallahasseeAtmsWeb/cctvimages/video038.jpg","image4.jpg")
 
 img1=img.imread('image1.jpg')
 img2=img.imread('image2.jpg')
